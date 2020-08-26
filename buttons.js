@@ -3,7 +3,7 @@ function setDeepLink() {
     var content = 'Latitude:' + (Math.floor(latlngArray[0] * 100000)) / 100000 + '<br>Longitude:' + (Math.floor(latlngArray[1] * 100000)) / 100000;
     var newDeepLink = Math.floor(latlngArray[0] * 10000) / 10000 + "," + Math.floor(latlngArray[1] * 10000) / 10000 + "," + map.getZoom();
     $.address.value("?l=" + newDeepLink);
-    popupCenter("http://moon3dmap.com/share.php"+"?l=" + newDeepLink, "Earth View Maps - Share", 420, 450);
+    popupCenter("http://moon.luhui.net/"+"?l=" + newDeepLink, "Earth View Maps - Share", 420, 450);
 }
 function shareMap(){
    setDeepLink()
