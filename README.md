@@ -4,7 +4,8 @@
 
 # http://moon.luhui.net
 
-
+ <img src="facebook.jpg" alt="Moon 3d Map" width="100%" />
+ 
 # 鲁虺月球地图使用谷歌地球插件这三维月球 atlas 探索月球。 
 
 鲁虺月球地图可以查看阿波罗任务，火山口，表面，月相。
