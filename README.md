@@ -6,10 +6,24 @@
 
  <img src="facebook.jpg" alt="Moon 3d Map" width="100%" />
  
+#  Status badges状态徽章
+Netlify badges for your site您网站的Netlify徽章
+
+Deploy status badge部署状态徽章
+
+This image automatically updates to reflect the current state of your latest production deploy. You can use the markdown snippet below to add it to your project README.
+该映像会自动更新以反映最新生产部署的当前状态。您可以使用下面的markdown代码片段将其添加到您的项目README中。
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a4ff32a4-6120-4a09-9478-238f569f5c58/deploy-status)](https://app.netlify.com/sites/yueqiu/deploys)
+
+
+
+
 # 鲁虺月球地图使用谷歌地球插件这三维月球 atlas 探索月球。 
 
 鲁虺月球地图可以查看阿波罗任务，火山口，表面，月相。
 
+
+ <img src="1.jpg" alt="luhui Moon 3d Map" width="100%" />
 
 # 鲁虺月球三维地图允许您查看月球景观以新的方式。
 
@@ -18,6 +32,7 @@
 # 鲁虺月球三维地图轻松导航。
 
 鲁虺月球三维地图使用新的导航面板可放大和缩小、 旋转左或向右，使 360 ° 旋转视图，倾斜地球的地图或只是按随机按钮以找到一个新的令人惊奇的地方。
+ <img src="2" alt="luhui Moon 3d Map" width="100%" />
 
 # 鲁虺月球三维地图相机控制。
 
@@ -28,7 +43,7 @@
 在鲁虺月球三维地图键入任意坐标-一个地方的经度和纬度。
 
 # 鲁虺月球三维地图新的有趣的地方在地图上。
-
+ <img src="3" alt="luhui Moon 3d Map" width="100%" />
 鲁虺月球三维地图下拉菜单中的有趣的地方列表将帮助您找到他们在哪里。
 
 鲁虺月球三维地图仍然到来是受欢迎的地方、 山峦、 着陆点、 阿波罗登月计划和更多的列表。
@@ -45,6 +60,7 @@
 
 月亮的引力影响产生海洋的潮汐和轻微延长一天。
 
+ <img src="4" alt="luhui Moon 3d Map" width="100%" />
 月球的当前轨道距离是大约三十倍地球，使它有明显的大小在天空中的太阳几乎相同的直径。
 
 这使得月球遮住了太阳近正是在日全食。此匹配明显视觉尺寸是一个巧合。
