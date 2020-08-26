@@ -4,6 +4,12 @@
 
 # http://moon.luhui.net
 
+
+申请谷歌api改第17行的域名所属api
+
+修改buttons.js第11行
+
+
  <img src="facebook.jpg" alt="Moon 3d Map" width="100%" />
  
 #  Status badges状态徽章
